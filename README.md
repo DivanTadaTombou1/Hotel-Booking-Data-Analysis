@@ -5,7 +5,7 @@
 
 ## _Introduction_
 
-Welcome to the Hotel Booking Data Analysis Project, an exploration into the intricacies of **Hotel Booking Data Analysis** and visualisation. 
+Welcome to the **Hotel Revenue and Operational Efficiency Analysis** Project, an exploration into the intricacies of **Hotel Booking Data Analysis** and visualisation. 
 The primary goal of this project is to develop a robust database and craft SQL queries for thorough analysis. By leveraging Power BI, the aim is to create compelling visualisations to address crucial business questions.
 
 ## _The hotel management is confronted with pivotal business inquiries that necessitate data-driven insights for informed decision-making. The primary challenges involve comprehending the growth trajectories of our hotel revenue, evaluating the sufficiency of our parking facilities, and discerning trends within the booking data. Hence, the following questions arise:_
