@@ -22,8 +22,8 @@ _The project seamlessly incorporated the following robust components:_
 - Database Management
 - SQL Querying
 - Data Analysis and Exploratory Data Analysis (EDA)
-- Power BI Integration and Visualization
-- Business Intellige
+- Power BI Integration and Visualisation
+- Business Intelligence
 - Trends Identification
 
 ## _1. Database Initialisation and Data Consolidation_
@@ -48,7 +48,7 @@ UNION
 SELECT * FROM dbo.['2020']
 ```
 _**Union Tables**_
-:----------------------------------------------------:
+:-----------------------------:
 ![](03_Unionising_Tables.png)
 
 ## _2. Exploratory Data Analysis (EDA)_
@@ -170,7 +170,7 @@ _**Space for Parking**_
 ![](07_Parking_Space.png)
 
 
-## _3. Generate Data Visualisations Using Power BI_
+ _3. Generate Data Visualisations Using Power BI_
 
 Prior to transitioning to Power BI, a preliminary data preprocessing step is imperative. Leveraging SQL, two left join queries are executed on the dataset.
 
